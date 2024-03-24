@@ -1,0 +1,23 @@
+
+
+
+	WITHDRAW           : 100
+	TRANSACTION        : Cash Withdrawal
+	ACCOUNT NUMBER     : 567891234
+	ACCOUNT NAME       : Hussieny Wazeer
+	AVAILABLE BALANCE  : 9900
+	CARD TYPE          : Debit Mastercard
+	WITHDRAW TIME      : Sun Mar 24 06:16:37 2024
+
+_________________________________________________________________________________________
+
+	DEPOSITED AMOUNT   : 1000
+	TRANSACTION        : Cash Deposit
+	ACCOUNT NUMBER     : 567891234
+	ACCOUNT NAME       : Hussieny Wazeer
+	AVAILABLE BALANCE  : 10900
+	CARD NAME          : Debit Mastercard
+	DEPOSIT TIME       : Sun Mar 24 06:16:50 2024
+
+_________________________________________________________________________________________
+
